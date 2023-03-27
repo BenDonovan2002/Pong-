@@ -30,7 +30,7 @@ To install and run Pong++, follow these steps:
 
 3. Navigate into the build directory
 
-4. Run the resulting executable to start the game.
+4. Run the ./Pong executable to start the game.
 
 ## License
 
