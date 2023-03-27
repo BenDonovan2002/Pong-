@@ -24,7 +24,7 @@ To install and run Pong++, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
-   git clone https://github.com/yourusername/Pong++.git
+   git clone https://github.com/BenDonovan2002/Pong-
 
 2. Navigate to the directory containing the implementation you want to play (`SFML` or `SDL`).
 
@@ -34,7 +34,7 @@ To install and run Pong++, follow these steps:
 
 ## License
 
-Pong++ is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Pong++ is licensed under the MIT License.
 
 ## Credits
 
